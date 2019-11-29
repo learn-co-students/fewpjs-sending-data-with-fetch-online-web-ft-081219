@@ -9,34 +9,6 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
-    },
-    {
-      "dogName": "bojeesy",
-      "dogBreed": "cheesy",
-      "submit": "Submit",
-      "id": 3
-    },
-    {
-      "dogName": "bojeesy",
-      "dogBreed": "cheesy",
-      "submit": "Submit",
-      "id": 4
-    },
-    {
-      "dogName": "Byron",
-      "dogBreed": "Poodle",
-      "id": 5
-    },
-    {
-      "dogName": "bojeesy",
-      "dogBreed": "cheesy",
-      "submit": "Submit",
-      "id": 6
-    },
-    {
-      "dogName": "Byron",
-      "dogBreed": "Poodle",
-      "id": 7
     }
   ],
   "cats": [

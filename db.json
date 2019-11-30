@@ -21,10 +21,34 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
-}
+  "users": [
+  {
+  "name": {
+  "itTrusted": true
+  },
+  "email": "steve@stever.com",
+  "id": 1
+  },
+    {
+      "name": "oeu",
+      "email": "uoeu@eoue",
+      "id": 2
+    },
+    {
+      "name": "oeue",
+      "email": "oeue@ouoe",
+      "id": 3
+    },
+    {
+      "name": "aoeue",
+      "email": "eou#eu",
+      "id": 4
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
